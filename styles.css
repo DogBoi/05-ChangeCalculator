@@ -1,0 +1,60 @@
+element.style{
+}
+	h1 {
+		font-family: 'Lora', serif;
+		color:black;
+		margin-left: 110px;
+		margin-top: 30px;
+		font-size: 80px;
+		background-image: white;
+		background-visibility: .50%;
+}
+	h2 {
+		font-family: 'Lora', serif;
+		font-size: 80px
+		font-left:200px;
+		line-height: 1.4285;
+		color:black;		
+}
+	h3 {
+		
+		font-family: 'Lora', serif;
+		font-size: 100px
+		font-left:200px;
+		line-height: 1.4285;
+		color:black;	
+}
+	h4 {
+		font-family: 'Lora', serif;
+		font-size: 50px
+		font-left:200px;
+		line-height: 1.4285;
+		color:blue;
+	    border-style: solid;
+	    border-width:3px;
+	    border-color: black;
+	 	height: 25px;
+    	width: 70px;
+
+	   
+
+}
+	h5 {
+		font-family: 'Lora', serif;
+		font-size: 50px
+		font-left:200px;
+		line-height: 1.4285;
+		color:blue;
+	    border-style: solid;
+	    border-width:3px;
+	    border-color: black;
+	 	height: 25px;
+    	width: 350px;
+}
+	label {
+		font-family: 'Lora', serif;
+		font-size: 50px
+		font-left:200px;
+		line-height: 1.4285;
+		color:red;
+}
